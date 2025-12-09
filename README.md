@@ -4,3 +4,8 @@ As for data cleaning it was pretty straightforward as most of the data was alrea
 
 
 Average goals per game: Vassar 2.167 Hobart 1.938 Skidmore 1.625 RPI 1.471 SLU 1.438 RIT 1.438 Bard 1.333 Ithaca 1.118 Clarkson 1.059 Union .833
+
+
+<img width="361" height="218" alt="image" src="https://github.com/user-attachments/assets/609c7668-6e7e-4b40-b375-58bd95ac10d4" />
+
+
