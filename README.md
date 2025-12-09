@@ -16,7 +16,17 @@ This chart is interesting as it shows the team's final position in the league an
 
 Liberty League:
 
-
+Data:
+Team	Home	Away	Total
+Hobart	14	5	19
+Vassar	12	5	17
+Skidmore	9	6	15
+RIT	6	6	12
+Clarkson	5	5	10
+RPI	5	5	10
+Ithaca	3	6	9
+Union	5	3	8
+Bard	1	3	4<img width="261" height="177" alt="image" src="https://github.com/user-attachments/assets/0dbfea73-5f24-4e3b-ad95-49851786fb9e" />
 <img width="361" height="218" alt="image" src="https://github.com/user-attachments/assets/569fd5f8-baeb-4c41-906f-8badd0d7cb8d" />
 
 As expected, teams tended to have more home goals than away goals. This was quite prevalent for Hobart and Vassar, who had more than double the amount of home goals than away goals. For the Vassar mens soccer we were undefeated at home but could not perform on the road. One reason for this is the comfort of playing at home, there is no travel stress or anything that could go wrong, you simply wake up and go to the field. Away trips tend to have many variables like having to go to class, which means you do not have the comfort to eat at the best time before the game. For only one team playing away seemed to be better: Ithaca. They were the only team to score more goals away from home. This is interesting as Ithaca is pretty much the furthest away from the rest of the teams in the Liberty League which makes this an additional layer to the outlier piece. All in all, it is very evident that playing at home leads to more goals being scored and in turn more wins.
