@@ -25,6 +25,8 @@ Data:
 <img width="264" height="160" alt="image" src="https://github.com/user-attachments/assets/2ce829a9-25c4-42f0-b3d3-8e2c75a5ef10" />
 
 
+Chart:
+
 <img width="361" height="218" alt="image" src="https://github.com/user-attachments/assets/569fd5f8-baeb-4c41-906f-8badd0d7cb8d" />
 
 As expected, teams tended to have more home goals than away goals. This was quite prevalent for Hobart and Vassar, who had more than double the amount of home goals than away goals. For the Vassar mens soccer we were undefeated at home but could not perform on the road. One reason for this is the comfort of playing at home, there is no travel stress or anything that could go wrong, you simply wake up and go to the field. Away trips tend to have many variables like having to go to class, which means you do not have the comfort to eat at the best time before the game. For only one team playing away seemed to be better: Ithaca. They were the only team to score more goals away from home. This is interesting as Ithaca is pretty much the furthest away from the rest of the teams in the Liberty League which makes this an additional layer to the outlier piece. All in all, it is very evident that playing at home leads to more goals being scored and in turn more wins.
