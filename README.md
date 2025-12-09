@@ -7,6 +7,11 @@ As for data cleaning it was pretty straightforward as most of the data was alrea
 
 GF vs GA:
 
+Data:
+
+<img width="197" height="174" alt="image" src="https://github.com/user-attachments/assets/f9e83767-8702-421e-a3ce-064fabf35276" />
+
+
 Average goals per game: Vassar 2.167 Hobart 1.938 Skidmore 1.625 RPI 1.471 SLU 1.438 RIT 1.438 Bard 1.333 Ithaca 1.118 Clarkson 1.059 Union .833
 
 
@@ -15,6 +20,10 @@ Average goals per game: Vassar 2.167 Hobart 1.938 Skidmore 1.625 RPI 1.471 SLU 1
 This chart is interesting as it shows the team's final position in the league and their goals scored and goals against averages. The liberty league champions Hobart, had the largest difference in their averages in goals against and goals for which aligns with what you would expect to happen. However, runners up Vassar actually had one of the smallest differences in average goals for and goals against but were still very successful in the league. Comparatively Bard who also had a very similar Goals for and goals against ration seemed to have a very different outcome as they finished last in the league, not recording a single win. This is due to Bard's very easy out of conference schedule where they won multiple games by many games. All in all, besides a couple outliers it is quite evident that the teams that scored more goals tended to do better.
 
 Liberty League:
+
+Data:
+
+<img width="264" height="160" alt="image" src="https://github.com/user-attachments/assets/2ce829a9-25c4-42f0-b3d3-8e2c75a5ef10" />
 
 
 <img width="361" height="218" alt="image" src="https://github.com/user-attachments/assets/569fd5f8-baeb-4c41-906f-8badd0d7cb8d" />
